@@ -1,0 +1,16 @@
+h1 {
+    color: orangered;
+}
+
+h2 {
+    color:brown;
+}
+
+ol li:nth-child(even) {
+    color:rgb(181, 113, 10);
+}
+
+hr.brown {
+    background-color: #66402b;
+    height: 3px;
+}
